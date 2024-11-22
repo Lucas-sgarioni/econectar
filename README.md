@@ -7,9 +7,15 @@ Projeto para criação de um sistema de cadastro para universidade. O sistema co
 - Cadastro de Fornecedores ​
 - Cadastro de Alunos
 
-
+<div align="center">
+  
 ### Diagrama de casos de uso
-<img src="assets\img\diagrama-de-casos-de-uso.png">
+</br>
+<img src="assets\img\diagrama-de-casos-de-uso.png" width="500" height="420">
+</br>
+</br>
 
 ### Diagrama de classe UML
-<img src="assets\img\diagframa-de-classe-uml.png">
+</br>
+<img src="assets\img\diagframa-de-classe-uml.png" width="500" height="420">
+</div>
