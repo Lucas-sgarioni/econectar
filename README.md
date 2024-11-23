@@ -18,6 +18,7 @@ Projeto para criação de um sistema de cadastro para universidade. O sistema co
 ### Diagrama de classe UML
 </br>
 <img src="assets\img\diagframa-de-classe-uml.png" width="500" height="420">
+<img src="assets\img\register-users\cadastro-alunos.jpg" width="500" height="420">
 </div>
 
 ### Objetivo
