@@ -18,7 +18,6 @@ Projeto para criação de um sistema de cadastro para universidade. O sistema co
 ### Diagrama de classe UML
 </br>
 <img src="assets\img\diagframa-de-classe-uml.png" width="500" height="420">
-<img src="assets\img\register-users\cadastro-alunos.jpg" width="500" height="420">
 </div>
 
 ### Objetivo
@@ -29,3 +28,15 @@ Será possível consolidar as informações em um único sistema, eliminando a d
 automatizar e otimizar os processos manuais, reduzindo o tempo e os recursos necessários para a gestão de dados, 
 garantir a segurança e a integridade dos dados, implementando mecanismos de controle de acesso e backup, além de 
 desenvolver um sistema intuitivo e de fácil utilização para os diversos perfis de usuários.
+
+
+### Prototipos
+
+![Login](https://github.com/user-attachments/assets/2cb35788-d05c-4fe5-bf46-5d667494e6e6)
+![Pessoa fisica](https://github.com/user-attachments/assets/602e88e6-ba90-44f3-8318-e9aa4c336c17)
+![Pessoa Juridica](https://github.com/user-attachments/assets/ce6d11d3-5a94-4789-b6de-b64082aa1f41)
+![Cadastro Professores](https://github.com/user-attachments/assets/5ea4ca0f-296b-4ed0-9997-5d7052d21304)
+![Cadastro Fornecedores](https://github.com/user-attachments/assets/86a93572-8b21-48b6-9cf2-7eeb82b7c116)
+![Cadastro Alunos](https://github.com/user-attachments/assets/a517bb64-b61a-416f-93af-872cd0de1be1)
+
+
