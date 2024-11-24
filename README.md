@@ -45,7 +45,7 @@ desenvolver um sistema intuitivo e de fácil utilização para os diversos perfi
 
 ### Tecnologias Utilizadas
 
-* Ferramenta de modelagem: a ferramenta utilizada para a modelagem UML foi [draw.io] (https://www.drawio.com/)
-* Linguagem de programação: a linguagem de programação escolhida foi o [Java] (https://www.java.com/pt-BR/)
-* Banco de dados: o sistema de bando de dados selecionado foi o [H2 DB] (https://www.h2database.com/html/main.html)
-* Controle de versão: o sistema gerenciador de código fonte utilizado foi o [Github] (https://github.com/) 
+* Ferramenta de modelagem: a ferramenta utilizada para a modelagem UML foi [draw.io](https://www.drawio.com/)
+* Linguagem de programação: a linguagem de programação escolhida foi o [Java](https://www.java.com/pt-BR/)
+* Banco de dados: o sistema de bando de dados selecionado foi o [H2 DB](https://www.h2database.com/html/main.html)
+* Controle de versão: o sistema gerenciador de código fonte utilizado foi o [Github](https://github.com/) 
