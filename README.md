@@ -44,7 +44,7 @@ desenvolver um sistema intuitivo e de fácil utilização para os diversos perfi
 
 
 
-<p style="text-align: left;">
+
 ### Tecnologias Utilizadas
 
 * Ferramenta de modelagem UML: a ferramenta utilizada para a modelagem UML foi [draw.io](https://www.drawio.com/)
@@ -52,4 +52,3 @@ desenvolver um sistema intuitivo e de fácil utilização para os diversos perfi
 * Banco de dados: o sistema de bando de dados selecionado foi o [H2 DB](https://www.h2database.com/html/main.html)
 * Controle de versão: o sistema gerenciador de código fonte utilizado foi o [Github](https://github.com/) 
 * Ferramenta de criação Protótipo: foi utilizada a ferramenta [Figma](https://www.figma.com/)
-</p>
