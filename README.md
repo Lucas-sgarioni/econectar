@@ -36,6 +36,7 @@ desenvolver um sistema intuitivo e de fácil utilização para os diversos perfi
 
 Protótipos Interativos: A seguir, são apresentados os protótipos de interface do sistema, criados no Figma. Eles ilustram as telas e interações dos módulos de cadastro de Pessoas Físicas, Jurídicas, Professores, Fornecedores e Alunos. Para visualizar os protótipos
 interativos, basta clicar nos links abaixo.
+
 <img src="https://github.com/user-attachments/assets/2cb35788-d05c-4fe5-bf46-5d667494e6e6">
 <img src="https://github.com/user-attachments/assets/602e88e6-ba90-44f3-8318-e9aa4c336c17">
 <img src="https://github.com/user-attachments/assets/ce6d11d3-5a94-4789-b6de-b64082aa1f41">
