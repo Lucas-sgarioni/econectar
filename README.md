@@ -34,7 +34,8 @@ desenvolver um sistema intuitivo e de fácil utilização para os diversos perfi
 
 ### Prototipos
 
-
+Protótipos Interativos: A seguir, são apresentados os protótipos de interface do sistema, criados no Figma. Eles ilustram as telas e interações dos módulos de cadastro de Pessoas Físicas, Jurídicas, Professores, Fornecedores e Alunos. Para visualizar os protótipos
+interativos, basta clicar nos links abaixo.
 <img src="https://github.com/user-attachments/assets/2cb35788-d05c-4fe5-bf46-5d667494e6e6">
 <img src="https://github.com/user-attachments/assets/602e88e6-ba90-44f3-8318-e9aa4c336c17">
 <img src="https://github.com/user-attachments/assets/ce6d11d3-5a94-4789-b6de-b64082aa1f41">
@@ -49,8 +50,8 @@ desenvolver um sistema intuitivo e de fácil utilização para os diversos perfi
 
 ### Tecnologias Utilizadas
 
-* Ferramenta de modelagem UML: a ferramenta utilizada para a modelagem UML foi [draw.io](https://www.drawio.com/)
-* Linguagem de programação: a linguagem de programação escolhida foi o [Java](https://www.java.com/pt-BR/)
-* Banco de dados: o sistema de bando de dados selecionado foi o [H2 DB](https://www.h2database.com/html/main.html)
-* Controle de versão: o sistema gerenciador de código fonte utilizado foi o [Github](https://github.com/) 
-* Ferramenta de criação Protótipo: foi utilizada a ferramenta [Figma](https://www.figma.com/)
+* Ferramenta de modelagem UML: O draw.io foi escolhido por sua interface intuitiva e por ser uma ferramenta gratuita e fácil de usar para criar diagramas de casos de uso e diagramas de classes UML. [draw.io](https://www.drawio.com/)
+* Linguagem de programação: O Java foi selecionado por ser uma linguagem robusta e amplamente utilizada no desenvolvimento de sistemas corporativos, oferecendo escalabilidade e segurança. [Java](https://www.java.com/pt-BR/)
+* Banco de dados: Optamos pelo H2 DB, um banco de dados leve e em memória, ideal para protótipos rápidos e para sistemas que não necessitam de um banco de dados persistente em larga escala. [H2 DB](https://www.h2database.com/html/main.html)
+* Controle de versão: O GitHub foi utilizado como sistema de controle de versão devido à sua popularidade e integração eficiente com outras ferramentas de desenvolvimento e colaboração. [Github](https://github.com/) 
+* Ferramenta de criação Protótipo: O Figma foi escolhido por ser uma ferramenta colaborativa e altamente eficiente para criar protótipos interativos, permitindo que todos os membros da equipe contribuam simultaneamente no design do sistema. [Figma](https://www.figma.com/)
