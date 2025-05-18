@@ -10,13 +10,6 @@ Os serviços disponíveis são:
 
 <div align="center">
 
-### ⚙️ Pré-requisitos:
-Antes de executar o projeto instale:
-* Python 3.9+
-* Pip
-* Git
-* Um ambiente virtual (recomendado: venv ou virtualenv)
-  
 ### Diagrama de casos de uso
 </br>
 <img src="assets\img\diagrama-de-casos-de-uso.png" width="500" height="420">
@@ -48,7 +41,12 @@ interativos, basta clicar nos links abaixo.
 <img src="">
 </div>
 
-
+### ⚙️ Pré-requisitos:
+Antes de executar o projeto instale:
+* Python 3.9+
+* Pip
+* Git
+* Um ambiente virtual (recomendado: venv ou virtualenv)
 
 
 ### Tecnologias Utilizadas
