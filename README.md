@@ -4,7 +4,8 @@
 Os serviços disponíveis são:
 
 * Agendamento de coleta
-* Visualização de pontos de coleta
+* Localização de pontos de coleta
+* Contato com Cooperativas
 * Autenticação
 * Feedback ambiental
 
@@ -57,4 +58,12 @@ Antes de executar o projeto instale:
 * CSS3
 * Bootstrap5 
 * SQLite3 (padrão Django)
+
+### Equipe Desenvolvedora
+
+* Diego Alba
+* Guilherme M. de Medeiros
+* Lisandra Rosa de Vargas
+* Lucas Sgarioni
+* Luís Mendes
 
