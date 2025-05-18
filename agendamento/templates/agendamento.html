@@ -1,1 +1,14 @@
 {% extends "base.html" %}
+{% load bootstrap5 %}
+
+{% block conteudo %}
+  <h2>Agendamento de Coleta</h2>
+  {% if success %}
+    <div class="alert alert-success">Agendamento realizado com sucesso!</div>
+  {% endif %}
+  <form method="post">
+    {% csrf_token %}
+    {% bootstrap_form form %}
+    <button type="submit" class="btn btn-primary">Agendar</button>
+  </form>
+{% endblock %}

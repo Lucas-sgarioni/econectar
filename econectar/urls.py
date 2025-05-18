@@ -18,7 +18,7 @@ from django.contrib import admin
 from django.urls import path
 from base.views import inicio
 from cadastro.views import cadastrar
-from agendamento.views import agendamento
+from agendamento.views import agendamento, lista_agendamentos
 from reciclagem.views import reciclagem
 
 urlpatterns = [
@@ -27,4 +27,5 @@ urlpatterns = [
     path('cadastro/', cadastrar, name='cadastro'),
     path('agendamento/', agendamento, name='agendamento'),
     path('reciclagem/', reciclagem, name='reciclagem'),
+    path('agendamentos/', lista_agendamentos, name='agendamentos')
 ]
