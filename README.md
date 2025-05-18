@@ -1,11 +1,12 @@
-# Sistema de cadastro
-Projeto para criação de um sistema de cadastro para universidade. O sistema comporta:
+# Econectar 
+Projeto de um aplicativo web feito com Django que conecta usuários a pontos de coleta de materiais recicláveis, promove agendamentos de coleta e reforça a educação ambiental com uma inteface moderma.
 
-- Cadastro de Pessoa Física ​
-- Cadastro de Pessoa Jurídica ​
-- Cadastro de Professores ​
-- Cadastro de Fornecedores ​
-- Cadastro de Alunos
+Os serviços disponíveis são:
+
+* Agendamento de coleta
+* Visualização de pontos de coleta
+* Autenticação
+* Feedback ambienta
 
 <div align="center">
   
@@ -23,13 +24,7 @@ Projeto para criação de um sistema de cadastro para universidade. O sistema co
 
 ### Objetivo
 
-Criar um sistema de gestão de dados que atenda às necessidades da Universidade, que permita cadastrar e administrar 
-de forma eficiente os dados de pessoas físicas, jurídicas, docentes, fonecedores e estudante. 
-Será possível consolidar as informações em um único sistema, eliminando a dispersão de dados e facilitando o acesso,
-automatizar e otimizar os processos manuais, reduzindo o tempo e os recursos necessários para a gestão de dados, 
-garantir a segurança e a integridade dos dados, implementando mecanismos de controle de acesso e backup, além de 
-desenvolver um sistema intuitivo e de fácil utilização para os diversos perfis de usuários.
-
+Criar um aplicativo de coleta de materiais recicláveis que busca conscientizar sobre a importância da reciclagem do lixo, auxiliando a população da cidade de Porto Alegre na identificação dos tipos de materiais recicláveis e as formas corretas de reciclagem, trazendo informações sobre rotas de coleta de lixo, assim como empresas de coletas de materiais recicláveis específicos.
 
 
 ### Prototipos
@@ -51,8 +46,9 @@ interativos, basta clicar nos links abaixo.
 
 ### Tecnologias Utilizadas
 
-* Ferramenta de modelagem UML: O draw.io foi escolhido por sua interface intuitiva e por ser uma ferramenta gratuita e fácil de usar para criar diagramas de casos de uso e diagramas de classes UML. [draw.io](https://www.drawio.com/)
-* Linguagem de programação: O Java foi selecionado por ser uma linguagem robusta e amplamente utilizada no desenvolvimento de sistemas corporativos, oferecendo escalabilidade e segurança. [Java](https://www.java.com/pt-BR/)
-* Banco de dados: Optamos pelo H2 DB, um banco de dados leve e em memória, ideal para protótipos rápidos e para sistemas que não necessitam de um banco de dados persistente em larga escala. [H2 DB](https://www.h2database.com/html/main.html)
-* Controle de versão: O GitHub foi utilizado como sistema de controle de versão devido à sua popularidade e integração eficiente com outras ferramentas de desenvolvimento e colaboração. [Github](https://github.com/) 
-* Ferramenta de criação Protótipo: O Figma foi escolhido por ser uma ferramenta colaborativa e altamente eficiente para criar protótipos interativos, permitindo que todos os membros da equipe contribuam simultaneamente no design do sistema. [Figma](https://www.figma.com/)
+* Python 3.13
+* Django 4.x
+* HTML5
+* CSS3
+* 
+
