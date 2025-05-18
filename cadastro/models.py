@@ -4,8 +4,8 @@ class Cadastro(models.Model):
     nome = models.CharField(verbose_name='Nome', max_length=70)
     email = models.EmailField(verbose_name='E-mail')
     telefone = models.CharField(verbose_name='Telefone', max_length=9)
-    endereco = models.CharField(verbose_name='Endereço')
-    senha = models.CharField(verbose_name='Senha')
+    endereco = models.CharField(verbose_name='Endereço', max_length=100)
+    senha = models.CharField(verbose_name='Senha', max_length=16)
 
 
     criado_em = models.DateTimeField(verbose_name='Criado em', auto_now_add=True)
