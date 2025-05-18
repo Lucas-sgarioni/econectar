@@ -1,5 +1,5 @@
 from django import forms
-from cadastro.models import Cadastro
+from cadastro.models import Cadastro, Entrar
 
 class CadastrarForm(forms.ModelForm):
 
@@ -10,5 +10,14 @@ class CadastrarForm(forms.ModelForm):
             'email',
             'telefone',
             'endereco',
-            'senha'
+            'senha',
+        ]
+
+class EntrarForm(forms.ModelForm):
+
+    class Meta:
+        model = Entrar
+        fields = [
+            'email',
+            'senha',
         ]

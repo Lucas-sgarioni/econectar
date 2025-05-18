@@ -17,7 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from base.views import inicio
-from cadastro.views import cadastrar
+from cadastro.views import cadastrar, entrar
 from agendamento.views import agendamento
 from reciclagem.views import reciclagem
 
@@ -25,6 +25,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', inicio, name='home'),
     path('cadastro/', cadastrar, name='cadastro'),
+    path('login/', entrar, name='login'),
     path('agendamento/', agendamento, name='agendamento'),
     path('reciclagem/', reciclagem, name='reciclagem'),
 ]
