@@ -50,5 +50,6 @@ interativos, basta clicar nos links abaixo.
 * Django 4.x
 * HTML5
 * CSS3
+* Bootstrap5
 * 
 
