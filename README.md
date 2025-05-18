@@ -9,6 +9,13 @@ Os serviços disponíveis são:
 * Feedback ambiental
 
 <div align="center">
+
+### ⚙️ Pré-requisitos:
+Antes de executar o projeto instale:
+* Python 3.9+
+* Pip
+* Git
+* Um ambiente virtual (recomendado: venv ou virtualenv)
   
 ### Diagrama de casos de uso
 </br>
