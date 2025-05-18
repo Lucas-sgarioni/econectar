@@ -6,7 +6,7 @@ Os serviços disponíveis são:
 * Agendamento de coleta
 * Visualização de pontos de coleta
 * Autenticação
-* Feedback ambienta
+* Feedback ambiental
 
 <div align="center">
   
