@@ -1,13 +1,17 @@
 {% extends "base.html" %}
 
+{% load static %}
 {% block conteudo %}
-<div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
-    <div class="col-md-6 px-0">
-        <h1 class="display-4 fst-italic">Title of a longer featured blog post</h1>
-        <p class="lead my-3">Multiple lines of text that form the lede, informing new readers quickly and efficiently about what’s most interesting in this post’s contents.</p>
-        <p class="lead mb-0"><a href="#" class="text-white fw-bold">Continue reading...</a></p>
+<div class="p-5 mb-4 bg-body-tertiary rounded-3">
+    <div class="container-fluid py-5">
+        <div class="container" img src="{% static 'assets/img/fundo-banner.jpg' %}" alt="Imagem ilustrativa" class="img-fluid rounded">
+            <h1 class="display-4 fst-italic">Econectar</h1>
+            <p class="lead my-3">Reciclagem inteligente que ajuda o meio ambiente e a sociedade ligando você aos grupos de coleta para o devido descarte de seu lixo.</p>
+            <button class="btn btn-primary text-body-emphasis" type="button">Saiba Mais</button>
+        </div>
     </div>
 </div>
+
 {% for dado in dados %}
 <div class="col-md-6">
     <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">

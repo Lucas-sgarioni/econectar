@@ -10,3 +10,8 @@ class Cadastro(models.Model):
 
     criado_em = models.DateTimeField(verbose_name='Criado em', auto_now_add=True)
 
+class Entrar(models.Model):
+    email = models.EmailField(verbose_name='E-mail')
+    senha = models.CharField(verbose_name='Senha', max_length=16)
+
+    logado_em = models.DateTimeField(verbose_name='Criado em', auto_now=True)
