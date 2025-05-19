@@ -105,3 +105,6 @@ Se for implantar o projeto em ambiente de nuvem (como Heroku, Railway ou Render)
 * Lucas Sgarioni
 * Luís Mendes
 
+### 🌿 Sobre
+Desenvolvido como parte de um projeto acadêmico e social com foco em sustentabilidade, cidadania e tecnologia acessível.
+
