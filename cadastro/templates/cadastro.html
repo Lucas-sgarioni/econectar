@@ -9,9 +9,9 @@
       <p class="alert alert-sucess">Cadastro realizado com sucesso!</p>
       {% else %}
       <form action="{% url 'cadastro' %}" method="post">
-          {% csrf_token %}
-          {% bootstrap_form form %}
-          <button class="btn btn-primary w-50" type="submit">Cadastrar</button>
+        {% csrf_token %}
+        {% bootstrap_form form %}
+        <button class="btn btn-primary w-50" type="submit">Cadastrar</button>
       </form>
       {% endif %}
     </div>

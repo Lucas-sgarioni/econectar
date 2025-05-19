@@ -6,7 +6,7 @@ class Agendamento(models.Model):
   endereco = models.CharField(verbose_name= 'Endereço', max_length=100)
   data = models.DateField(verbose_name= 'Data de Coleta')
   hora = models.TimeField(verbose_name= 'Hora da Coleta')
-  observacao = models.CharField(verbose_name= 'Observação', max_length=999)
+  observacao = models.TextField(verbose_name= 'Observação', max_length=500)
   
 
 # Create your models here.

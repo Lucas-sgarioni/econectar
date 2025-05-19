@@ -18,4 +18,4 @@ def entrar(request):
         forms_login.save()
         contexto['sucesso'] = True
     contexto['form'] = forms_login
-    return render(request, 'login.html', contexto)
+    return render(request, 'registration/login.html', contexto)
