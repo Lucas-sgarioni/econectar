@@ -33,11 +33,11 @@ Criar um aplicativo de coleta de materiais recicláveis que busca conscientizar 
 Protótipos Interativos: A seguir, são apresentados os protótipos de interface do aplicativo, criados no Figma. Eles ilustram as telas e interações dos módulos de login de Pessoas Físicas, agendamento e localização de pontos de coleta. Para visualizar os protótipos
 interativos, basta clicar nos links abaixo.
 
-<img src="https://github.com/Lucas-sgarioni/econectar/blob/fd52a16c6d372842871147f6fd3b2f4f0e66df4f/assets/img/Conjunto%20de%20telas.png">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/Lucas-sgarioni/econectar/blob/6299098dafee292e3b2cf0fadc69ebe60553d2c8/assets/img/Tela%20login.png">
+<img src="https://github.com/Lucas-sgarioni/econectar/blob/6299098dafee292e3b2cf0fadc69ebe60553d2c8/assets/img/Agendamento%20da%20coleta.png">
+<img src="https://github.com/Lucas-sgarioni/econectar/blob/6299098dafee292e3b2cf0fadc69ebe60553d2c8/assets/img/Meus%20agendamentos.png">
+<img src="https://github.com/Lucas-sgarioni/econectar/blob/6299098dafee292e3b2cf0fadc69ebe60553d2c8/assets/img/Minhas%20reciclagens.png">
+<img src="https://github.com/Lucas-sgarioni/econectar/blob/6299098dafee292e3b2cf0fadc69ebe60553d2c8/assets/img/Fluxo%20das%20telas.png">
 <img src="">
 <img src="">
 </div>
