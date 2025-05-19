@@ -30,7 +30,7 @@ Criar um aplicativo de coleta de materiais recicláveis que busca conscientizar 
 
 ### Demonstração da solução
 
-A seguir, são apresentados os protótipos de interface do sistema, criados no Figma. Eles ilustram as telas e interações dos módulos de cadastro de Pessoas Físicas, Jurídicas, Professores, Fornecedores e Alunos. Para visualizar os protótipos
+Protótipos Interativos: A seguir, são apresentados os protótipos de interface do aplicativo, criados no Figma. Eles ilustram as telas e interações dos módulos de login de Pessoas Físicas, agendamento e localização de pontos de coleta. Para visualizar os protótipos
 interativos, basta clicar nos links abaixo.
 
 <img src="">
