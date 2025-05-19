@@ -49,6 +49,44 @@ Antes de executar o projeto instale:
 * Git
 * Um ambiente virtual (recomendado: venv ou virtualenv)
 
+### 🚀 Como executar o projeto localmente:
+1. Clonar o repositório:
+git clone https://github.com/seu-usuario/econectar.git
+cd econectar
+
+2. Criar um ambiente vitual:
+python -m venv venv
+
+3. Ativar o ambiente virtual:
+   * Windows
+     venv\Scripts\activate
+
+4. Instalar as dependências:
+pip install -r requirements.txt
+Criar o arquivo requirements se ele não exisitir:
+pip freeze > requirements.txt
+
+5. Realizar as migrações:
+python manage.py makemigrations
+python manage.py migrate
+
+6. Iniciar o servidor:
+python manage.py runserver
+
+7. Acessar o servidor:
+Acesse em http://127.0.0.1:8000
+
+### 🗃️ Scripts de Carga (dados iniciais)
+Este é um script com dados de exemplo, com instruções, para os pontos de coleta ou agendamentos:
+python manage.py loaddata coleta/fixtures/pontos_coleta.json
+
+### ☁️ Subida para Nuvem (opcional)
+Se for implantar o projeto em ambiente de nuvem (como Heroku, Railway ou Render), inclua:
+
+  * Procfile
+  * runtime.txt
+  * requirements.txt
+  * Configuração para STATICFILES
 
 ### Tecnologias Utilizadas
 
