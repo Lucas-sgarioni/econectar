@@ -33,7 +33,7 @@ Criar um aplicativo de coleta de materiais recicláveis que busca conscientizar 
 Protótipos Interativos: A seguir, são apresentados os protótipos de interface do aplicativo, criados no Figma. Eles ilustram as telas e interações dos módulos de login de Pessoas Físicas, agendamento e localização de pontos de coleta. Para visualizar os protótipos
 interativos, basta clicar nos links abaixo.
 
-<img src="">
+<img src="https://github.com/Lucas-sgarioni/econectar/blob/fd52a16c6d372842871147f6fd3b2f4f0e66df4f/assets/img/Conjunto%20de%20telas.png">
 <img src="">
 <img src="">
 <img src="">
