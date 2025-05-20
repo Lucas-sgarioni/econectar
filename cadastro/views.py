@@ -1,21 +1,14 @@
-from django.shortcuts import render
-from cadastro.form import CadastrarForm, EntrarForm
-from cadastro.models import Cadastro
+from django.shortcuts import render, redirect
+from cadastro.form import CadastrarForm
+
 
 def cadastrar(request):
-    contexto = {'sucesso' : False}
+
     forms_cadastro = CadastrarForm(request.POST or None)
     if forms_cadastro.is_valid():
         forms_cadastro.save()
-        contexto['sucesso'] = True
-    contexto['form'] = forms_cadastro
-    return render(request, 'cadastro.html', contexto)
+        return redirect('login')
+    else: form = CadastrarForm()
 
-def entrar(request):
-    contexto = {'sucesso' : False}
-    forms_login = EntrarForm(request.POST or None)
-    if forms_login.is_valid():
-        forms_login.save()
-        contexto['sucesso'] = True
-    contexto['form'] = forms_login
-    return render(request, 'registration/login.html', contexto)
+    return render(request, 'cadastro.html', {'form': form})
+

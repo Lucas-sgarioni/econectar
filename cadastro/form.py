@@ -1,8 +1,7 @@
-from django import forms
-from cadastro.models import Cadastro, Entrar
+from django.contrib.auth.forms import UserCreationForm
+from cadastro.models import Cadastro
 
-class CadastrarForm(forms.ModelForm):
-    senha = forms.CharField(widget=forms.PasswordInput)
+class CadastrarForm(UserCreationForm):
     class Meta:
         model = Cadastro
         fields = [
@@ -10,14 +9,6 @@ class CadastrarForm(forms.ModelForm):
             'email',
             'telefone',
             'endereco',
-            'senha',
-        ]
-
-class EntrarForm(forms.ModelForm):
-
-    class Meta:
-        model = Entrar
-        fields = [
-            'email',
-            'senha',
+            'username',
+            'password',
         ]
