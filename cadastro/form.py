@@ -10,5 +10,4 @@ class CadastrarForm(UserCreationForm):
             'telefone',
             'endereco',
             'username',
-            'password',
         ]
