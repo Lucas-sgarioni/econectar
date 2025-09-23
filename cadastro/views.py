@@ -8,7 +8,6 @@ def cadastrar(request):
     if forms_cadastro.is_valid():
         forms_cadastro.save()
         return redirect('login')
-    else: form = CadastrarForm()
 
-    return render(request, 'cadastro.html', {'form': form})
+    return render(request, 'cadastro.html', {'form': forms_cadastro})
 
